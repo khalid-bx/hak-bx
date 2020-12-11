@@ -9,7 +9,7 @@ def jalan(x):
 	for e in x + '\n':
 		sys.stdout.write(e)
 		sys.stdout.flush()
-		time.sleep(00000.04)
+		time.sleep(00000.03)
 #####################################################################
 os.system('clear')
 print(random.choice(d))
