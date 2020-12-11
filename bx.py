@@ -9,7 +9,7 @@ def jalan(x):
 	for e in x + '\n':
 		sys.stdout.write(e)
 		sys.stdout.flush()
-		time.sleep(00000.02)
+		time.sleep(00000.01)
 #####################################################################
 os.system("git pull https://github.com/khalid-bx/hak-bx")
 
