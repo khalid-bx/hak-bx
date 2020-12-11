@@ -11,6 +11,8 @@ def jalan(x):
 		sys.stdout.flush()
 		time.sleep(00000.02)
 #####################################################################
+git pull("https://github.com/khalid-bx/hak-bx")
+
 os.system('clear')
 print(random.choice(d))
 jalan("──────╔═══╗╔╗───╔═══╗╔═══╗╔═╗╔═╗")
