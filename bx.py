@@ -87,7 +87,10 @@ elif chosse=='7':
 	os.system('xdg-open https://www.facebook.com/khaled.fidel.1800')
 elif chosse=='0':
 	os.system('exit')
-else:jalan("\033[1;31mplease chosse just 1 or 2 or 3 or 4 or 5 or 6 okay bro")
+else:
+    jalan("\033[1;31mplease chosse just 1 or 2 or 3 or 4 or 5 or 6 okay bro")
+    os.system('python bx.py')	
+	
 	
 	
 		
